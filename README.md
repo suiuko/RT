@@ -11,6 +11,10 @@
 【网站】： https://cpp.suiuko.com
 【仓库】： https://github.com/poshoi/Cppnote
 
+### 2. robot - dynamic
+【网站】： https://rtdynamic.suiuko.com/
+【仓库】： https://github.com/poshoi/robot-dynamics
+
 
 ## resource 资料
 
